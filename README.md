@@ -4,6 +4,11 @@ Google Chrome extension  for quick copy paste of multiple texts.
 2. Copy anything with a single button click.
 3. It even remains saved after you close the browser
 
+<image src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
+<image src="https://forthebadge.com/images/badges/uses-html.svg"/>
+
+
+
 # How-to-use
 1. Download this project.
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
